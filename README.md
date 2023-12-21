@@ -1,4 +1,4 @@
-![Add Rating](https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/f67c5cc1-4b89-48eb-aa46-e3c63cec66b8)<img width="921" alt="Rating" src="https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/63d6a5ff-1ce5-4426-a8b4-f96bd871cb18">![View Member](https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/6a5530f6-2170-4185-b05b-8f1295b3d356)<img width="924" alt="Update Password" src="https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/34b38518-f9ea-47a4-b68a-6280e7c50507">Berikut ini adalah tugas untuk memenuhi Ujian Akhir Semester 3 Lab 5 Pemrograman Web dan Lab 5 Basis Data Anggota Kelompok 3:
+Berikut ini adalah tugas untuk memenuhi Ujian Akhir Semester 3 Lab 5 Pemrograman Web dan Lab 5 Basis Data Anggota Kelompok 3:
 
 Nur Annisa Balqis (221401003)
 Winda Rinjani Adhana (221401009)
