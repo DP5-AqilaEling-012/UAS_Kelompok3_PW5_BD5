@@ -41,7 +41,7 @@ if(isset($_GET['logout'])){
     padding: 10px 20px;
     border-radius: 5px;
     margin-bottom: 20px;
-    background-color: #e9edcd;
+    background-color: #b4baec;
     color: #000;
     text-decoration: none;
     transition: background-color 0.3s, color 0.3s;
@@ -52,33 +52,31 @@ if(isset($_GET['logout'])){
     background-color: whitesmoke; 
     color: #333; 
     }
-
+    
+    .navbar {
+    background-color: #b4baec;
+    height: 150px;
+    }
   </style>
 
-  <title>AFTER LOGIN</title>
-  
+<title>AFTER LOGIN</title> 
 </head>
 <body>
-<div class="bg-custom">
-<header style="background-color:#b4baec;">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-md-9">
-          <img src="<?= $_SESSION['login_picture'] ?>" style="cursor: pointer;  max-width: 150px;">
-          <br>
-          <span><?= ucwords($_SESSION['login_givenName'] . " " .$_SESSION['login_familyName']) ?></span>
-          <br>
-          <a href="afterlogin.php?logout">Logout</a>
-          <a href="ubah.php">Update Password</a>
-        </div>
-        <div class="col-md-3 text-right">
-          <img src="image/logo.png" alt="Logo" class="img-fluid" style="max-width: 250px;">
-        </div>
-      </div>
-    </div>
-  </header>
-</div>
-
+<header>
+<nav class="navbar navbar-expand-lg navbar-dark">
+            <div class="container-fluid"> 
+                <a class="navbar-logo" href="#" style="text-decoration: none;">
+                <img src="<?= $_SESSION['login_picture'] ?>" style="cursor: pointer;  max-width: 120px;">
+                <br>
+                <?= ucwords($_SESSION['login_givenName'] . " " .$_SESSION['login_familyName']) ?> 
+                </a> 
+                <ul class="navbar-nav d-flex flex-row me-1">
+                    <img src="image/logo.png" alt="SPORTREVIVE" width="350"/>
+                </ul>    
+            </div>  
+        </nav> 
+    </header>
+    
   <div class="container mt-5">
     <p class="text-black text-center font-weight-bold">Explore more about Healing's journey</p>
   </div>
@@ -122,17 +120,18 @@ if(isset($_GET['logout'])){
       </div>
     </div>
   </div>
-  
+
+  <div class="col-md-9 offset-md-3 text-right">
+    <a href="afterlogin.php?logout">Logout</a>
+    <a href="ubah.php">Update Password</a>
+  </div>
+
   <footer style="background-color:#b4baec; padding: 15px; color: white; width: 100%;">
     <div class="text-center">
         <h5 style="font-size: 24px;">Created by @healing.girls</h5>
         <p style="font-size: 18px;">© 2023. All rights reserved.</p>
     </div>
   </footer>
-
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 
 </body>
 </html>
