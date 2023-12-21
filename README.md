@@ -1,8 +1,9 @@
 Berikut ini adalah tugas untuk memenuhi Ujian Akhir Semester 3 Lab 5 Pemrograman Web dan Lab 5 Basis Data Anggota Kelompok 3:
-1.Nur Annisa Balqis (221401003)
-2.Winda Rinjani Adhana (221401009)
-3.Aqila Eling Febrianti (221401012)
-4.Devia Anjani (221401019)
+
+Nur Annisa Balqis (221401003)
+Winda Rinjani Adhana (221401009)
+Aqila Eling Febrianti (221401012)
+Devia Anjani (221401019)
 Berikut ini adalah preview tampilan websitenya:
 
 1. Tampilan Register
