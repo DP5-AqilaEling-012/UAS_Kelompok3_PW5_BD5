@@ -12,8 +12,8 @@ Berikut adalah preview tampilan websitenya:
 <img width="920" alt="Login" src="https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/a0ec7a6f-5568-4aa1-8a92-abe94bf56a5c">
 
 3. Tampilan After Login
-<img width="910" alt="After Login(1)" src="https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/3ba2c08d-4f2d-4ed6-ad99-d49f01095716">
-<img width="911" alt="After Login(2)" src="https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/5208cb21-8f8b-4007-8d65-7acaa2662c7d">
+<img width="913" alt="Screenshot (19)" src="https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/739f8d26-eaa3-4676-a3ee-64c93917ef1e">
+<img width="915" alt="Screenshot (20)" src="https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/e97e48e6-6410-4a0d-a9dd-0996d4a0a55a">
 
 4. Tampilan Update Password
 <img width="924" alt="Update Password" src="https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/05160f74-96d2-4412-883c-f866a5e0312c">
