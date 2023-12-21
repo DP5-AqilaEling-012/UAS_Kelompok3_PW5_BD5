@@ -1,0 +1,15 @@
+-- CREATE TABLE destinasi (
+--     id VARCHAR(10) NOT NULL,
+--     name VARCHAR(100) NOT NULL,
+--     location VARCHAR(100) NOT NULL,
+--     category VARCHAR(100) NOT NULL,
+--     description VARCHAR(550) NOT NULL
+-- );
+
+-- INSERT INTO destinasi (id, name, location, category, description) 
+-- VALUES
+-- ( 'DES03', 'Giant Hill', 'Langkat', 'Artificial Tourism', 'Giant Hill is a tourist game area that can be enjoyed by both children and adults.'),
+-- ( 'DES11', 'Istana Maimun', 'Medan', 'Artificial Tourism', 'An artificial tour exploring ancient palaces in North Sumatra.'),
+-- ( 'DES12', 'Mesjid Raya', 'Medan', 'Artificial Tourism', 'A majestic and beautiful mosque, serving as a tourist attraction and place of worship for Muslims.'),
+-- ( 'DES13', 'Tangkahan', 'Langkat', 'Natural Tourism', 'Natural tourism spot offering beautiful views from the beach.'),
+-- ( 'DES19', 'Mickie Holiday', 'Berastagi', 'Artificial Tourism', 'A gaming tourist spot suitable for both children and adults.');

@@ -1,0 +1,91 @@
+body {
+    background-color: #b4baec;
+    background-image: url('images/view.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+
+.card-header h4 a {
+    color: black;
+    background-color: #b4baec; 
+    padding: 5px 10px;
+    border-radius: 5px; 
+}
+
+.btn-success {
+    background-color: #b4baec;
+}
+
+
+.btn-danger {
+    background-color: #b4baec; 
+}
+
+.btn-success i.fas.fa-pen,
+.btn-success i.far.fa-edit {
+    color: black; 
+}
+
+
+.btn-danger i.fas.fa-trash-alt {
+    color: black; 
+}
+
+.dataTables_length,
+.dataTables_filter label,
+.dataTables_info,
+.dataTables_paginate {
+    background-color: #b4baec; 
+    color: black; 
+    padding: 5px;
+    border-radius: 5px; 
+    display: inline-block;
+}
+
+.dataTables_wrapper .dataTables_paginate {
+    float: right;
+    background-color: transparent;
+}
+
+.dataTables_length {
+    margin-top: 10px; 
+}
+
+.dataTables_filter {
+    margin-top: 10px; 
+}
+
+@media (max-width: 767px) {
+    .table-responsive {
+        overflow-x: auto;
+        width: 100%; 
+        margin: 0 auto; 
+    }
+    
+    table {
+        width: 100%; 
+    }
+
+    table td,
+    table th {
+        padding: 8px;
+    }
+
+@media (max-width: 767px) {
+    .dataTables_wrapper .dataTables_length,
+    .dataTables_wrapper .dataTables_filter,
+    .dataTables_wrapper .dataTables_info,
+    .dataTables_wrapper .dataTables_paginate {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .dataTables_wrapper .dataTables_filter {
+        flex-basis: 100%;
+        margin-top: 10px; 
+    }
+}
+}

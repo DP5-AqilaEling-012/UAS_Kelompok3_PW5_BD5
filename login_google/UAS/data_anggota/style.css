@@ -1,0 +1,69 @@
+body {
+    background-image: url('images/healing\ go.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.table-custom {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+.table-custom th, .table-custom td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.table-custom th {
+    background-color: #b4baec;
+    color: white;
+}
+
+.table-custom tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.table-custom tbody tr:hover {
+    background-color: #e0e0e0;
+}
+
+
+.btn-custom-purple {
+    background-color: #e9edcd;
+    border-color: #e9edcd;
+}
+
+.btn-custom-purple:hover {
+    background-color: #e9edcd;
+    border-color: #e9edcd;
+}
+
+.btn-info,
+.btn-success,
+.btn-danger {
+    background-color: #b4baec;
+}
+
+.btn-info i.far.fa-eye,
+.btn-success i.fas.fa-pen,
+.btn-danger i.fas.fa-trash-alt {
+    color: white;
+}
+
+.btn-info i.far.fa-eye,
+.btn-success i.fas.fa-pen,
+.btn-danger i.fas.fa-trash-alt {
+    color: black; 
+}
+
+
+.btn-info,
+.btn-success,
+.btn-danger {
+    border: none; 
+}
+.btn-primary {
+    background-color: white; 
+    color: #212529;
+}

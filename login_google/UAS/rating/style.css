@@ -1,0 +1,64 @@
+body {
+    background-color: #b4baec;
+}
+
+body {
+    background-image: url('images/pamah simelir.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+
+.card-header h4 a {
+    color: black;
+    background-color: #b4baec; 
+    padding: 5px 10px;
+    border-radius: 5px; 
+}
+
+.btn-success {
+    background-color: #b4baec;
+}
+
+
+.btn-danger {
+    background-color: #b4baec; 
+}
+
+.btn-success i.fas.fa-pen,
+.btn-success i.far.fa-edit {
+    color: black; 
+}
+
+
+.btn-danger i.fas.fa-trash-alt {
+    color: black; 
+}
+
+.dataTables_length,
+.dataTables_filter label,
+.dataTables_info,
+.dataTables_paginate {
+    background-color: #e9edcd; 
+    color: black; 
+    padding: 5px;
+    border-radius: 5px; 
+    display: inline-block;
+}
+
+.dataTables_wrapper .dataTables_paginate {
+    float: right;
+    background-color: transparent;
+}
+
+.dataTables_length {
+    margin-top: 10px; 
+}
+
+.dataTables_filter {
+    margin-top: 10px; 
+}
+
+
+
+
+

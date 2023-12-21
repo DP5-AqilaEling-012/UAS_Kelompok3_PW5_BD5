@@ -1,0 +1,112 @@
+body {
+    background-image: url('images/Gambar JPEG.jpeg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #b4baec;
+}
+
+.table-custom {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+.table-custom th, .table-custom td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.table-custom th {
+    background-color: #b4baec;
+    color: white;
+}
+
+.table-custom tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.table-custom tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+.table-custom tbody tr:hover {
+    background-color: #e0e0e0;
+}
+
+
+.btn-custom-purple {
+    background-color: #e9edcd;
+    border-color: #e9edcd;
+}
+
+.btn-custom-purple:hover {
+    background-color: #e9edcd;
+    border-color: #e9edcd;
+}
+
+.btn-info,
+.btn-success,
+.btn-danger {
+    background-color: #b4baec;
+}
+
+.btn-info i.far.fa-eye,
+.btn-success i.fas.fa-pen,
+.btn-danger i.fas.fa-trash-alt {
+    color: white;
+}
+
+.btn-info i.far.fa-eye,
+.btn-success i.fas.fa-pen,
+.btn-danger i.fas.fa-trash-alt {
+    color: black; 
+}
+
+
+.btn-info,
+.btn-success,
+.btn-danger {
+    border: none; 
+}
+.btn-primary {
+    background-color: white; 
+    color: #212529;
+}
+
+@media (max-width: 767px) {
+    .table-custom th,
+    .table-custom td {
+        padding: 6px;
+    }
+}
+
+@media (max-width: 767px) {
+    .card-body .btn {
+        margin-bottom: 5px;
+        display: block;
+        width: 100%;
+    }
+
+    .card-body input[type="text"],
+    .card-body input[type="email"] {
+        margin-bottom: 10px; 
+        width: 100%; 
+    }
+}
+
+@media (max-width: 767px) {
+    .table-responsive {
+        margin: 0 auto;
+        overflow-x: auto; 
+    }
+    
+    table {
+        width: 100%; 
+        margin: 0 auto;
+    }
+
+    table td,
+    table th {
+        padding: 8px;
+    }
+}
