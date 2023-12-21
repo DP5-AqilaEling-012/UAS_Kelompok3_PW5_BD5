@@ -1,9 +1,8 @@
 Berikut ini adalah tugas untuk memenuhi Ujian Akhir Semester 3 Lab 5 Pemrograman Web dan Lab 5 Basis Data Anggota Kelompok 3:
-
-Nur Annisa Balqis (221401003)
-Winda Rinjani Adhana (221401009)
-Aqila Eling Febrianti (221401012)
-Devia Anjani (221401019)
+1.Nur Annisa Balqis (221401003)
+2.Winda Rinjani Adhana (221401009)
+3.Aqila Eling Febrianti (221401012)
+4.Devia Anjani (221401019)
 Berikut ini adalah preview tampilan websitenya:
 
 1. Tampilan Register
@@ -31,7 +30,7 @@ Berikut ini adalah preview tampilan websitenya:
 8. Tampilan View Member
 ![View Member](https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/587dd2b1-cb9c-4e49-b40c-73abdb48cffb)
 9. Tampilan Destination
-<img width="910" alt="Rekomendasi Wisata (1)" src="https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/7195332b-2baa-44c4-bd59-b8ad
+<img width="910" alt="Rekomendasi Wisata (1)" src="https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/e1353961-31bf-4cab-8833-12f650ded210">
 <img width="913" alt="Rekomendasi Wisata (2)" src="https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/00560c49-f0cf-436c-9fd8-5f0e94aaec32">
 bbf871af">
 <img width="909" alt="Rekomendasi Wisata (3)" src="https://github.com/DP5-AqilaEling-012/UAS_Kelompok3_PW5_BD5/assets/114634831/aaf40af8-b340-4b5d-a903-4ff012c73216">
